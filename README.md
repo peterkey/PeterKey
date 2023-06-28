@@ -1,3 +1,5 @@
+<img src="https://media4.giphy.com/media/dw36yjtOAtuSZyxEJG/giphy.gif" width="100%" height="300">
+
 <h1 align="center">Hi 👋, I'm Peter</h1>
 
 **`Digital Craftsman (Frontend Developer)`**
