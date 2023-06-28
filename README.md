@@ -22,3 +22,12 @@
 #
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peterkey&theme=github_dark&show_icons=true&locale=en" alt="peterkey" /></p>
+
+#
+
+<h3>Follow Me:</h3>
+<p>
+  <a href="https://www.reddit.com/user/TheMightyReptar" target="_blank" rel="noopener noreferrer">
+    <img alt="reddit" title="Follow me on reddit" src="https://img.shields.io/reddit/user-karma/combined/TheMIghtyReptar?style=for-the-badge&logo=reddit&label=Peter's%20Karma&color=%23FF4500">
+  </a>
+</p>
