@@ -32,7 +32,7 @@
   <summary>About <strong>Me</strong></summary>
 
 
-<p> 👋 Hello there! I'm Peter, a passionate frontend web developer ready to make my mark in the digital world. With a solid foundation from my online bootcamp training, I'm excited to apply my skills and creativity to craft stunning and user-friendly web experiences.
+<p> 👋 Hello there! I'm Peter, a passionate frontend web developer ready to make my mark in the digital world. With a solid foundation from my bootcamp training, I'm excited to apply my skills and creativity to craft stunning and user-friendly web experiences.
 
 🎨 Designing intuitive and visually appealing interfaces is my forte. I enjoy translating ideas and concepts into pixel-perfect designs, ensuring a seamless user experience. I believe that a well-designed website not only captivates users but also enhances their interaction and engagement.
 
