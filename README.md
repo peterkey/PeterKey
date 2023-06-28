@@ -5,7 +5,24 @@
 **`Digital Craftsman (Frontend Developer)`**
 
 #
-<p>👋 Hello there! I'm Peter, a passionate frontend web developer ready to make my mark in the digital world. With a solid foundation from my bootcamp training, I'm excited to apply my skills and creativity to craft stunning and user-friendly web experiences.</p>
+
+<details open>
+  <summary>About <strong>Me</strong></summary>
+
+
+<p> 👋 Hello there! I'm Peter, a passionate frontend web developer ready to make my mark in the digital world. With a solid foundation from my online bootcamp training, I'm excited to apply my skills and creativity to craft stunning and user-friendly web experiences.
+
+🎨 Designing intuitive and visually appealing interfaces is my forte. I enjoy translating ideas and concepts into pixel-perfect designs, ensuring a seamless user experience. I believe that a well-designed website not only captivates users but also enhances their interaction and engagement.
+
+💻 My expertise lies in HTML, CSS, and JavaScript, and I'm constantly expanding my knowledge by keeping up with the latest frontend technologies and best practices. I have experience working with popular frameworks like React, as well as backend technologies like Express.js and Node.js. Additionally, I'm proficient in working with databases, including MongoDB, to create robust and scalable applications.
+
+🌐 Collaboration is at the heart of my development process. I thrive in a team environment, where I can brainstorm ideas, share knowledge, and work together to create exceptional solutions. I believe that open communication and a positive mindset are key to building successful projects.
+
+🌟 Above all, I'm passionate about creating meaningful and impactful web experiences that leave a lasting impression on users. I'm driven by the desire to make a positive difference through my work, and I'm excited to embark on this journey as a frontend web developer.
+
+If you're looking for a dedicated and enthusiastic developer to join your team or collaborate on a project, feel free to reach out. Let's create something amazing together! </p>
+
+</details>
 
 #
 
