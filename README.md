@@ -3,6 +3,7 @@
 **`Digital Craftsman (Frontend Developer)`**
 
 #
+<p>👋 Hello there! I'm Peter, a passionate frontend web developer ready to make my mark in the digital world. With a solid foundation from my bootcamp training, I'm excited to apply my skills and creativity to craft stunning and user-friendly web experiences.</p>
 
 #
 
@@ -35,5 +36,21 @@
   </a>
   <a href="https://www.reddit.com/user/TheMightyReptar">
     <img alt="reddit" title="Follow me on reddit" src="https://img.shields.io/reddit/user-karma/combined/TheMIghtyReptar?style=for-the-badge&logo=reddit&label=Peter's%20Karma&color=%23FF4500">
+  </a>
+</p>
+
+#
+
+<h3>Recommended Listening:</h3>
+<h4>Comedy:</h4>
+<p>
+  <a href="https://www.youtube.com/@HaveAWordPod">
+    <img src="https://clientresponse.net/services/landing/assets/companies/haveaword/brand/logo" width="33%" height"33%">
+  </a>
+  <a href="https://www.youtube.com/@TheoVon">
+    <img src="https://megaphone.imgix.net/podcasts/77b32ce4-b2db-11ed-9447-83efd7382a7a/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress" width="33%" height"33%">
+  </a>
+  <a href="https://www.youtube.com/channel/UC4fZeoNxAXfbIpT3swsVh9w">
+    <img src="https://yt3.googleusercontent.com/ytc/AGIKgqMd38OSJAGbFw43ab-cfFAIB9omtgIL0iEFKn8w=s900-c-k-c0x00ffffff-no-rj" width="33%" height"33%">
   </a>
 </p>
