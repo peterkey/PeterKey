@@ -26,8 +26,14 @@
 #
 
 <h3>Follow Me:</h3>
-<p>
-  <a href="https://www.reddit.com/user/TheMightyReptar" target="_blank" rel="noopener noreferrer">
+<p align="left">
+  <a href="https://twitter.com/MrPK3y">
+    <img alt="Twitter Follow" title="Follow me on twitter" src="https://img.shields.io/twitter/follow/mrpk3y?label=Follow%20Peter&style=for-the-badge&logo=twitter&color=%231DA1F2">
+  </a>
+  <a href="https://www.youtube.com/channel/UC3qThZxR4BEwZkIscVh6Exg?sub_confirmation=1">
+    <img alt="Youtube Subscribe" title="Subscribe to my Youtube Channel" src="https://img.shields.io/youtube/channel/subscribers/UC3qThZxR4BEwZkIscVh6Exg?style=for-the-badge&logo=youtube&label=Subscribe%20To%20Peter&color=%23FF0000">
+  </a>
+  <a href="https://www.reddit.com/user/TheMightyReptar">
     <img alt="reddit" title="Follow me on reddit" src="https://img.shields.io/reddit/user-karma/combined/TheMIghtyReptar?style=for-the-badge&logo=reddit&label=Peter's%20Karma&color=%23FF4500">
   </a>
 </p>
