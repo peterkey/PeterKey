@@ -53,7 +53,17 @@ If you're looking for a dedicated and enthusiastic developer to join your team o
 #
 
 <h3>Follow Me:</h3>
+
 <p align="left">
+  <a href="https://www.linkedin.com/in/peter-key94/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/peterkey/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/peter.key.12/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
   <a href="https://twitter.com/MrPK3y">
     <img alt="Twitter Follow" title="Follow me on twitter" src="https://img.shields.io/twitter/follow/mrpk3y?label=Follow%20Peter&style=for-the-badge&logo=twitter&color=%231DA1F2">
   </a>
@@ -62,6 +72,9 @@ If you're looking for a dedicated and enthusiastic developer to join your team o
   </a>
   <a href="https://www.reddit.com/user/TheMightyReptar">
     <img alt="reddit" title="Follow me on reddit" src="https://img.shields.io/reddit/user-karma/combined/TheMIghtyReptar?style=for-the-badge&logo=reddit&label=Peter's%20Karma&color=%23FF4500">
+  </a>
+  <a href="https://www.codewars.com/users/pk%20d-_-b">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
   </a>
 </p>
 
