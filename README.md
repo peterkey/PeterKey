@@ -4,6 +4,13 @@
 
 **`Digital Craftsman (Frontend Developer)`**
 
+<p>
+  <a href="https://github.com/peterkey?tab=followers">
+    <img src="https://img.shields.io/github/followers/peterkey?label=Follow%20Peter&style=for-the-badge&logo=github&color=%23181717">
+  </a>
+  <img src="https://img.shields.io/github/stars/peterkey?style=for-the-badge&logo=github&label=Peter's%20Stars&color=%23181717">
+</p>
+
 #
 
 <h3 align="left">Languages and Tools:</h3>
