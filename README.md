@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
 
-**`Digital Craftsman`**
+**`Digital Craftsman (Frontend Developer)`**
 
 #
 
