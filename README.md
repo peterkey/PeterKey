@@ -56,3 +56,12 @@
     <img src="https://yt3.googleusercontent.com/ytc/AGIKgqMd38OSJAGbFw43ab-cfFAIB9omtgIL0iEFKn8w=s900-c-k-c0x00ffffff-no-rj" width="33%" height"33%">
   </a>
 </p>
+<h4>Informative:</h4>
+<p>
+  <a href="https://www.youtube.com/@hubermanlab">
+    <img src="https://i.scdn.co/image/ab6765630000ba8aaa4830256e4b613f07287208" width="33%" height"33%">
+  </a>
+  <a href="https://www.youtube.com/@TheDiaryOfACEO">
+    <img src="https://stevenbartlett.com/wp-content/uploads/2021/12/DiaryofaCEO.jpg" width="33%" height"33%">
+  </a>
+</p>
