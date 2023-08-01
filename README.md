@@ -70,9 +70,6 @@ If you're looking for a dedicated and enthusiastic developer to join your team o
   <a href="https://www.youtube.com/channel/UC3qThZxR4BEwZkIscVh6Exg?sub_confirmation=1">
     <img alt="Youtube Subscribe" title="Subscribe to my Youtube Channel" src="https://img.shields.io/youtube/channel/subscribers/UC3qThZxR4BEwZkIscVh6Exg?style=for-the-badge&logo=youtube&label=Subscribe%20To%20Peter&color=%23FF0000">
   </a>
-  <a href="https://www.reddit.com/user/TheMightyReptar">
-    <img alt="reddit" title="Follow me on reddit" src="https://img.shields.io/reddit/user-karma/combined/TheMIghtyReptar?style=for-the-badge&logo=reddit&label=Peter's%20Karma&color=%23FF4500">
-  </a>
   <a href="https://www.codewars.com/users/pk%20d-_-b">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
   </a>
